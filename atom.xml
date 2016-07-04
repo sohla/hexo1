@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>soh_la</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://sohla.github.io/hexo1/"/>
+  <updated>2016-07-03T12:52:08.000Z</updated>
+  <id>http://sohla.github.io/hexo1/</id>
+  
+  <author>
+    <name>soh_la</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tools 16</title>
+    <link href="http://sohla.github.io/hexo1/2016/07/03/tools16/"/>
+    <id>http://sohla.github.io/hexo1/2016/07/03/tools16/</id>
+    <published>2016-07-02T14:00:00.000Z</published>
+    <updated>2016-07-03T12:52:08.000Z</updated>
+    
+    <content type="html">&lt;p&gt;I thougth it was time to write another post on what tools (software) i use. Last time (4 years ago!) the list was only for developing iOS apps. This time i’ve expanded the clasification to all tools used for all my software development.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;supercollider&lt;/em&gt; : i’m going to start with the greatest audio development tool i have ever had the pleasure of using. I’ve been using this programming language and development environment for over 16 years and it still surprisers me how good it is. The language has the best of both object oriented and functional programming concepts, uses OSC to communicate to/from the synthesis engine/server and has a simple yet powerful UI framework that allows me to build tools, installations, apps and experiments, very quickly. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;x-code&lt;/em&gt; : there have beem some dark times over the years when this IDE has caused me to scream, but it remains the only IDE i want to use for developing apps for Apples platforms: iOS, tvOS and OSX. There is so much power in this single app it boggles my mind. Linking to frameworks and having multiple targets are now much easier to configure. Code signing seems to be less bothersome although occasional hickups do still occur. Adding Playgrounds for Swift has been great to explore and a really valuable tool for learning and protoyping in Swift. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;dash&lt;/em&gt; : xcode documentation has improved over the years but Dash supports SO many platforms/frameworks/languages. it’s search is fast and let’s you set up different document profiles depending on what apps are open on your machine. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;terminal&lt;/em&gt; : over the last few years i’ve been learning more and more Bash. Also with the onset of package managers, i spend more and more time inside the console running Python scripts or learning how to use a tool. I sometimes start here to then move to another environment that then runs a unix command process. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;arduino&lt;/em&gt; : i’ve had to build some arduino projects in the last few years and thus used the standard IDE. But then i discovered embedXcode, a template for building arduino projects inside XCode. This is great tool but i found it hard to setup. The project is constantly developing and keeping up with XCodes updates. That said, i would like to try using Sublime Text for developing in. As you might have guessed by now, i think the Arduino IDE is not very good. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;processing&lt;/em&gt; : i sometimes need to do something with visuals and this is my goto. it’s great for experimenting and quickly getting something working. there are lots of libraries to do all sorts but again the editor is not great for coding.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;sublime text&lt;/em&gt; : after using textmate for years, i finally moved over to this great code editor. it’s crazy how this app works and how many possible languages/environments it can support. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;tower&lt;/em&gt; : git client. i’ve used this for a number of years. i’m getting cold on this tool, there are a few bugs and i once lost my entire development local directory because of a bug. i’ve stopped using this tool a few times now but i keep coming back to it. it does look nice and keeps the important information in focus. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;google chrome&lt;/em&gt; : browser of choice. it works. more importantly are the web-apps i use (see below)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;trello&lt;/em&gt; : i’ve been using this app for sometime and it’s is so great. it really helps every project i have on track (well, as much on track as it can be) the app has had many new features added over the years but i seem to use the most basic of them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;github&lt;/em&gt; : source of inspiration, help and somewhere to share code. &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Well, that’s it for my development tools. I think i’ll do another post sometime with regards to sound design. &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I thougth it was time to write another post on what tools (software) i use. Last time (4 years ago!) the list was only for developing iOS
+    
+    </summary>
+    
+    
+      <category term="software,code" scheme="http://sohla.github.io/hexo1/tags/software-code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tools</title>
+    <link href="http://sohla.github.io/hexo1/2012/11/17/tools/"/>
+    <id>http://sohla.github.io/hexo1/2012/11/17/tools/</id>
+    <published>2012-11-16T13:00:00.000Z</published>
+    <updated>2016-07-03T05:32:37.000Z</updated>
+    
+    <content type="html">&lt;p&gt;After writing my last post, i thought it would be nice to do a short post about the tools i use(d) for developing iOS apps. &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;Here goes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Pen + Paper&lt;/em&gt; : the greatest pair of tools that has stood the test of time. i use paper with no lines and can tear off the pad.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;X-Code&lt;/em&gt; : for all my coding needs. not by choice. i tried using xcode with textmate but i didn’t enjoy the experience. if only xcode and textmate could have children. it’s a beast and there is a lot of power underneath it all. but i’ve seen visual studio over the years consistently impress and lead as an IDE.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Interface Builder&lt;/em&gt; : i do use this for making the ui but only in terms of layout…and even then not really. it was terrible when it first came out, but it’s getting better. i did hand code all my ui code back in the day and still like having that flexibility.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Instruments&lt;/em&gt; : the app is kinda cool. it really needs processing power and it struggles when doing core audio stuff, but it can really help performance and memory issues.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;TextMate&lt;/em&gt; : i love this app; a coders very good friend. i use it for notes and design and code review….but not for coding!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Terminal&lt;/em&gt; : i still use svn, although i have finally moved to git as well. that said, i still use terminal for svn and to do builds for libraries and try stuff out. i will always like to know more command line stuff.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Flash&lt;/em&gt; : i know this app well and i like its object wrapping process of building objects. i mostly use this to do mock-ups, wireframe, diagrams and some production graphics.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Acorn&lt;/em&gt; : this is a great graphics app. i do all my graphics work in it and would love to improve my skills in using it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Grab&lt;/em&gt; : if i need to do quick snaps shots of some part of the screen, i use this. its simple and really quick. If i want to grab whole parts of something, i use Acorns excellent layer screen grab.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Snapz Pro X&lt;/em&gt; : i use this to do screen capture movies. it seems the best in terms of choice of rendering for both video and audio.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;RapidWeaver&lt;/em&gt; : this app is my friend. it makes making and maintaining a website really easy. if you haven’t seen it check it out, it’s worth it for its simple design.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;After writing my last post, i thought it would be nice to do a short post about the tools i use(d) for developing iOS apps.
+    
+    </summary>
+    
+    
+      <category term="software,code" scheme="http://sohla.github.io/hexo1/tags/software-code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A brief history of...</title>
+    <link href="http://sohla.github.io/hexo1/2012/11/15/A%20brief%20history%20of/"/>
+    <id>http://sohla.github.io/hexo1/2012/11/15/A brief history of/</id>
+    <published>2012-11-14T13:00:00.000Z</published>
+    <updated>2016-07-03T06:06:14.000Z</updated>
+    
+    <content type="html">&lt;p&gt;I finally grabbed all my small screen casts i made of synthmate as i developed it. &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;It begins with the original concept, inspired by and using Matt Legend Gemmell’s &lt;a href=&quot;http://t.umblr.com/redirect?z=http%3A%2F%2Fmattgemmell.com%2F2010%2F05%2F09%2Fipad-multi-touch&amp;amp;t=ZGJjMjRlMDA2OGUzMGMxZDhlZGQ0M2Y4Yzk5ZDUyNzc5ODY3NDI0NyxRR0ttSHJPUQ%3D%3D&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;multi-touch demo&lt;/a&gt;. It then moves on to the control panels and initial look and feel. Later, there are some different visual ideas i played with before arriving at the final look. Enjoy. &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/53640386&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I finally grabbed all my small screen casts i made of synthmate as i developed it.
+    
+    </summary>
+    
+    
+      <category term="unicode,design,code" scheme="http://sohla.github.io/hexo1/tags/unicode-design-code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Movement + Processing + SuperCollider</title>
+    <link href="http://sohla.github.io/hexo1/2012/09/15/Movement%20+%20Processing%20+%20SuperCollider/"/>
+    <id>http://sohla.github.io/hexo1/2012/09/15/Movement + Processing + SuperCollider/</id>
+    <published>2012-09-14T14:00:00.000Z</published>
+    <updated>2016-07-03T06:08:01.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Early this year (2012) i was involved in a creative development.  &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;One of the out-comes of this project was a real-time movement based granular synthesis setup. Taking output from a web cam, using Processing to run a blob detection algorithm on the video feed, and then communicating using Open Sound Control to SuperCollider, that ran a granular synth.&lt;/p&gt;
+&lt;p&gt;The goal was simple. To map a performers movement in space to control sound. Over 2 days, i developed are small framework to explore some of the possibilities. Then another 4 days were spent exploring and refactoring the framework as the creative team discovered and explored this setup. &lt;/p&gt;
+&lt;p&gt;I had used Supercollider a gazzilion times before for sound design projects. But this time i threw myself into using more code and more tech to create and generate the sound design content. And i really enjoyed the process. The coming together of two disciplines seemed natural and suited my head and my aesthetics.    &lt;/p&gt;
+&lt;p&gt;It was also a great opportunity to combine creativity and coding.&lt;/p&gt;
+&lt;p&gt;Creative coding : i hope to do more.&lt;/p&gt;
+&lt;p&gt;Thanks to Rinske Ginsberg for asking to work on the project and Dan Witton for permission to use this raw video.&lt;br&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/53641776&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Early this year (2012) i was involved in a creative development.
+    
+    </summary>
+    
+    
+      <category term="code, art, dance, processing, supercollider" scheme="http://sohla.github.io/hexo1/tags/code-art-dance-processing-supercollider/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>freeScreeeaaammm!!!!!!</title>
+    <link href="http://sohla.github.io/hexo1/2012/04/28/freeScreeeaaammm!!!!!!/"/>
+    <id>http://sohla.github.io/hexo1/2012/04/28/freeScreeeaaammm!!!!!!/</id>
+    <published>2012-04-27T14:00:00.000Z</published>
+    <updated>2016-07-03T06:04:34.000Z</updated>
+    
+    <content type="html">&lt;p&gt;When i found out there was going to be a &lt;a href=&quot;http://t.umblr.com/redirect?z=http%3A%2F%2Fwiki.musichackday.org%2Findex.php%3Ftitle%3DSydney_2012_Hacks&amp;amp;t=MmExMWNkYmQxOTBiMTg5Yzk5MGM3YmZjNDM2MzJiNTNlNzc0ZjI1OCwyZnloSGJUMw%3D%3D&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Music Hack Day in Sydney&lt;/a&gt; this year (2012), i made sure i could go. I had the luck and pleasure of attending Berlin’s Music Hack Day last year and i was completely blown away by both the talent and dedication of so many developer’s. Although there’s a focus on web development, there is scope to do almost anything relating to hacking and music. And you have about 24 hours to do it in. &lt;/p&gt;
+&lt;p&gt;For Sydney’s Music Hack Day i wanted to do something new. I had promised myself earlier in the year to learn a new language. After some reading i decided on python. I installed and off i went. And it was one of the best learning experiences this year. I now use python all the time in my development. I even use it to test out some maths code out before committing to it in c code. &lt;/p&gt;
+&lt;p&gt;The result of my hack was pretty simple. Just a script. But what a scream. Literally. The basic premise was to scrape audio from &lt;a href=&quot;http://t.umblr.com/redirect?z=http%3A%2F%2Ffreesound.org%2F&amp;amp;t=OTc3Y2QzYjQxM2U2MjFjMjI2YzZlZjBiODZkMmMzOTQ1NDczMTZmYywyZnloSGJUMw%3D%3D&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;freesound.org&lt;/a&gt; and sort the sounds out according to different sound qualities. There’s a more in-depth article written &lt;a href=&quot;http://t.umblr.com/redirect?z=http%3A%2F%2Fevolver.fm%2F2012%2F04%2F28%2Finnovative-sound-effects-finder-aims-to-end-designers-tedium%2F&amp;amp;t=MDJlMWIzOTBmNzRkNTAzZmYwMWUxN2JhODk4NTE4NjU3YTZiYmIwZCwyZnloSGJUMw%3D%3D&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/41483069&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;!-- Here’s a demo [video](http://t.umblr.com/redirect?z=https%3A%2F%2Fvimeo.com%2F41483069&amp;t=ODIwM2IyYzI5YjhiYjAwNTk2OWRlNWY2ZjlkOTc3ZjYzZTQ0ZjA2ZCwyZnloSGJUMw%3D%3D) of the script running. --&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;When i found out there was going to be a &lt;a href=&quot;http://t.umblr.com/redirect?z=http%3A%2F%2Fwiki.musichackday.org%2Findex.php%3Ftitle%3D
+    
+    </summary>
+    
+    
+      <category term="code, supercollider, python, freesound, soound design" scheme="http://sohla.github.io/hexo1/tags/code-supercollider-python-freesound-soound-design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ui-ux</title>
+    <link href="http://sohla.github.io/hexo1/2010/12/10/ui-ux/"/>
+    <id>http://sohla.github.io/hexo1/2010/12/10/ui-ux/</id>
+    <published>2010-12-09T13:00:00.000Z</published>
+    <updated>2016-07-03T05:45:22.000Z</updated>
+    
+    <content type="html">&lt;p&gt;I’m very interested in user interface (ui) design and user expereice (ux) design.  &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Recently, working on my new ipad app synthmate, the most interesting part has been reflecting on the progress of the app’s ui/ux and learning from what elements stayed and what elements changed from my initial design/ideas.&lt;/p&gt;
+&lt;p&gt;Wireframes or mock-ups were done using flash. I like using flash because i know it and i like the way you create objects inside other objects. I can easily switch between assets and generally work fast and am able to constantly tweak. The assets i used were grabbed off the web and screen shots of the ipad simulator. I should say i also don’t like flash for numerous reasons but i won’t go into them here.&lt;/p&gt;
+&lt;p&gt;Here’s my first mock-up&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/smmock1.png&quot; width=&quot;40%&quot; style=&quot;float:middle&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Some of the things i didn’t like about this first draft were :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;duplication of the keyboard image. i felt user’s would probably get confused between 2 pop-overs looking very similar. I tried to put scale and scope together (below) but i felt there was now too much for the user to work with.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/images/smmock2.png&quot; width=&quot;60%&quot; style=&quot;float:middle&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I liked the idea of making rotating controls and had a nice looking image BUT i made one and it was terrible. I soon realised that trying to simulate “real world” controls on a “virtual world” device is often a gimmick and not very user friendly. I knew this from using many applications including digital mixing desks for live audio and now that i had made one, i understood why they don’t work. So, i went for a more modest slider control, apple’s built-in one. I dressed it up to blend in with the other controls and set the thumb and slider size to both be large enough for a finger to touch and to also show the min and max.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/images/smmock3.png&quot; width=&quot;40%&quot; style=&quot;float:middle&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I felt the green ✓’s and red ✗’s were over-kill. Very busy. The more i thought about it the more i realised that in fact what i was trying to show was not a keyboard at all. For those musicians out there, setting the scale keyboard to say D Major and then setting the Root note to say E would mean you would be playing E Major. Very confusing. To solve this, i came up with what i was really trying to represent; the notes within ANY scale. The solution was so simple and it also meant i now only had 1 keyboard image, representing the Root note.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/images/smmock4.png&quot; width=&quot;60%&quot; style=&quot;float:middle&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The control surface is a whole other post. I’ll edit the screen capture movies into a quick history of its development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I love my mock-ups. They help me see what my app is going to do. And it separates writing code and designing ui/ux. Of coarse it’s hard to separate from writing code and there are always tweaks to be made. I find having a good clear idea makes writing the code a lot more fun because it’s satisfying to achieve what you set out to achieve. WIthout a plan or a rough idea of something can also be fun, with some lovely results. But it doesn’t always work. &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I’m very interested in user interface (ui) design and user expereice (ux) design.
+    
+    </summary>
+    
+    
+      <category term="design,code" scheme="http://sohla.github.io/hexo1/tags/design-code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>I ♥ unicode</title>
+    <link href="http://sohla.github.io/hexo1/2010/09/13/I%20%E2%99%A5%20unicode/"/>
+    <id>http://sohla.github.io/hexo1/2010/09/13/I ♥ unicode/</id>
+    <published>2010-09-12T14:00:00.000Z</published>
+    <updated>2016-07-03T05:32:42.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Recently, i needed some graphics to represent a  ✓ and a ✗ (After a ui re-design i didn’t need them but anyways…).&lt;a id=&quot;more&quot;&gt;&lt;/a&gt; I searched with googles lovely image search interface and brought some nice images into my xcode project. With a few simple lines of code i had them load up and rendered where i wanted them. Easy. But then i thought, hang on. That wasn’t easy at all. I had to find the assets and write code. Also, eventually the assets will have to be made by a designer, adding more work to the designers work load. It then struck me that the iphone and/or any device with an OS must have a bunch of assets sitting around to be used by the OS and possibly accessible through an api. Especially a tick and a cross! Then i thought, unicode. Its a standard, its built-in and all the rendering and options are already in place. All i have to do is code what character i want to show:&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;﻿label.text = @“\u2713”;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;This lead me to look through all the unicode character’s (there’s quiet a few) and to remember to try and use them as much as possible in the future.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Recently, i needed some graphics to represent a  ✓ and a ✗ (After a ui re-design i didn’t need them but anyways…).
+    
+    </summary>
+    
+    
+      <category term="unicode,design,code" scheme="http://sohla.github.io/hexo1/tags/unicode-design-code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Trying stuff out post 💎</title>
+    <link href="http://sohla.github.io/hexo1/2000/01/01/Test-Post/"/>
+    <id>http://sohla.github.io/hexo1/2000/01/01/Test-Post/</id>
+    <published>1999-12-31T13:00:00.000Z</published>
+    <updated>2016-07-03T14:01:07.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Here is where we a going to try out a bunch of stuff for a post. &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;Headings&quot;&gt;&lt;a href=&quot;#Headings&quot; class=&quot;headerlink&quot; title=&quot;Headings&quot;&gt;&lt;/a&gt;Headings&lt;/h1&gt;&lt;h3 id=&quot;Headings-1&quot;&gt;&lt;a href=&quot;#Headings-1&quot; class=&quot;headerlink&quot; title=&quot;Headings&quot;&gt;&lt;/a&gt;Headings&lt;/h3&gt;&lt;h5 id=&quot;Headings-2&quot;&gt;&lt;a href=&quot;#Headings-2&quot; class=&quot;headerlink&quot; title=&quot;Headings&quot;&gt;&lt;/a&gt;Headings&lt;/h5&gt;&lt;p&gt;Show a &lt;a href=&quot;http://soh.la&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;David Levithan&lt;/strong&gt;&lt;cite&gt;Wide Awake&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;NEW: DevDocs now comes with syntax highlighting. &lt;a href=&quot;http://devdocs.io&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://devdocs.io&lt;/a&gt;&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;@DevDocs&lt;/strong&gt;&lt;cite&gt;&lt;a href=&quot;https://twitter.com/devdocs/status/356095192085962752&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;twitter.com/devdocs/status/356095192085962752&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;Every interaction is both precious and an opportunity to delight.&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;Seth Godin&lt;/strong&gt;&lt;cite&gt;&lt;a href=&quot;http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Welcome to Island Marketing&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+&lt;p&gt;So, lets show some code :&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;printf(%f),3.141;&lt;/code&gt;&lt;br&gt;&lt;code&gt;func doStuff(a:String) throws -&amp;gt; Bool {
+}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;No colour&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;func doStuff(a:String) throws -&amp;gt; Bool &amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Oh and now some &lt;code&gt;inline&lt;/code&gt; can work&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Now&lt;/em&gt;, &lt;strong&gt;something&lt;/strong&gt; bigger&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;(
+var window;
+
+window = Window(&amp;quot;&amp;quot;)
+    .bounds_(Rect(
+        0,0,
+        400,
+        100)
+        .center_(Window.availableBounds.center))
+    .front;
+
+ScrollView(window)
+    .bounds_(Rect(0,0,400,100))
+    .canvas_(WebView().url_(&amp;quot;https://www.freesound.org/data/displays/25/25656_48671_wave_L.png&amp;quot;));
+
+window.onClose = ({
+    Buffer.freeAll;
+    s.freeAll;
+});
+
+CmdPeriod.doOnce({window.close});
+)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Oh yea.&lt;br&gt;&lt;figure class=&quot;highlight objc&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;[rectangle setX: &lt;span class=&quot;number&quot;&gt;10&lt;/span&gt; y: &lt;span class=&quot;number&quot;&gt;10&lt;/span&gt; width: &lt;span class=&quot;number&quot;&gt;20&lt;/span&gt; height: &lt;span class=&quot;number&quot;&gt;20&lt;/span&gt;];&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;div class=&quot;tip&quot;&gt;&lt;br&gt;&lt;br&gt;NOW WAIT ! something important&lt;br&gt;&lt;br&gt;&lt;/div&gt;
+
+
+&lt;h2 id=&quot;ok-now-some-image-work&quot;&gt;&lt;a href=&quot;#ok-now-some-image-work&quot; class=&quot;headerlink&quot; title=&quot;ok now some image work&quot;&gt;&lt;/a&gt;ok now some image work&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/images/sohlaapps.png&quot; width=&quot;60%&quot; style=&quot;float:middle&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Here is where we a going to try out a bunch of stuff for a post.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
