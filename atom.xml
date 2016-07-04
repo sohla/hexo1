@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>soh_la</title>
   
-  <link href="/hexo1/atom.xml" rel="self"/>
+  <link href="/aa/atom.xml" rel="self"/>
   
   <link href="http://sohla.github.io/hexo1/"/>
   <updated>2016-07-03T12:52:08.000Z</updated>
