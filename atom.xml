@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>soh_la</title>
   
-  <link href="/hexo1/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://sohla.github.io/hexo1/"/>
   <updated>2016-07-03T12:52:08.000Z</updated>
@@ -246,7 +246,7 @@
     <link href="http://sohla.github.io/hexo1/2000/01/01/Test-Post/"/>
     <id>http://sohla.github.io/hexo1/2000/01/01/Test-Post/</id>
     <published>1999-12-31T13:00:00.000Z</published>
-    <updated>2016-07-03T14:01:07.000Z</updated>
+    <updated>2016-07-05T03:56:13.000Z</updated>
     
     <content type="html">&lt;p&gt;Here is where we a going to try out a bunch of stuff for a post. &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;Headings&quot;&gt;&lt;a href=&quot;#Headings&quot; class=&quot;headerlink&quot; title=&quot;Headings&quot;&gt;&lt;/a&gt;Headings&lt;/h1&gt;&lt;h3 id=&quot;Headings-1&quot;&gt;&lt;a href=&quot;#Headings-1&quot; class=&quot;headerlink&quot; title=&quot;Headings&quot;&gt;&lt;/a&gt;Headings&lt;/h3&gt;&lt;h5 id=&quot;Headings-2&quot;&gt;&lt;a href=&quot;#Headings-2&quot; class=&quot;headerlink&quot; title=&quot;Headings&quot;&gt;&lt;/a&gt;Headings&lt;/h5&gt;&lt;p&gt;Show a &lt;a href=&quot;http://soh.la&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;LINK&lt;/a&gt;&lt;/p&gt;
