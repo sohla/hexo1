@@ -4,9 +4,9 @@
   
   <link href="/hexo1/atom.xml" rel="self"/>
   
-  <link href="http://sohla.github.io/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2016-07-03T12:52:08.000Z</updated>
-  <id>http://sohla.github.io/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>soh_la</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Tools 16</title>
-    <link href="http://sohla.github.io/2016/07/03/tools16/"/>
-    <id>http://sohla.github.io/2016/07/03/tools16/</id>
+    <link href="http://yoursite.com/2016/07/03/tools16/"/>
+    <id>http://yoursite.com/2016/07/03/tools16/</id>
     <published>2016-07-02T14:00:00.000Z</published>
     <updated>2016-07-03T12:52:08.000Z</updated>
     
@@ -57,14 +57,14 @@
     </summary>
     
     
-      <category term="software,code" scheme="http://sohla.github.io/tags/software-code/"/>
+      <category term="software,code" scheme="http://yoursite.com/tags/software-code/"/>
     
   </entry>
   
   <entry>
     <title>Tools</title>
-    <link href="http://sohla.github.io/2012/11/17/tools/"/>
-    <id>http://sohla.github.io/2012/11/17/tools/</id>
+    <link href="http://yoursite.com/2012/11/17/tools/"/>
+    <id>http://yoursite.com/2012/11/17/tools/</id>
     <published>2012-11-16T13:00:00.000Z</published>
     <updated>2016-07-03T05:32:37.000Z</updated>
     
@@ -102,14 +102,14 @@
     </summary>
     
     
-      <category term="software,code" scheme="http://sohla.github.io/tags/software-code/"/>
+      <category term="software,code" scheme="http://yoursite.com/tags/software-code/"/>
     
   </entry>
   
   <entry>
     <title>A brief history of...</title>
-    <link href="http://sohla.github.io/2012/11/15/A%20brief%20history%20of/"/>
-    <id>http://sohla.github.io/2012/11/15/A brief history of/</id>
+    <link href="http://yoursite.com/2012/11/15/A%20brief%20history%20of/"/>
+    <id>http://yoursite.com/2012/11/15/A brief history of/</id>
     <published>2012-11-14T13:00:00.000Z</published>
     <updated>2016-07-03T06:06:14.000Z</updated>
     
@@ -123,14 +123,14 @@
     </summary>
     
     
-      <category term="unicode,design,code" scheme="http://sohla.github.io/tags/unicode-design-code/"/>
+      <category term="unicode,design,code" scheme="http://yoursite.com/tags/unicode-design-code/"/>
     
   </entry>
   
   <entry>
     <title>Movement + Processing + SuperCollider</title>
-    <link href="http://sohla.github.io/2012/09/15/Movement%20+%20Processing%20+%20SuperCollider/"/>
-    <id>http://sohla.github.io/2012/09/15/Movement + Processing + SuperCollider/</id>
+    <link href="http://yoursite.com/2012/09/15/Movement%20+%20Processing%20+%20SuperCollider/"/>
+    <id>http://yoursite.com/2012/09/15/Movement + Processing + SuperCollider/</id>
     <published>2012-09-14T14:00:00.000Z</published>
     <updated>2016-07-03T06:08:01.000Z</updated>
     
@@ -149,14 +149,14 @@
     </summary>
     
     
-      <category term="code, art, dance, processing, supercollider" scheme="http://sohla.github.io/tags/code-art-dance-processing-supercollider/"/>
+      <category term="code, art, dance, processing, supercollider" scheme="http://yoursite.com/tags/code-art-dance-processing-supercollider/"/>
     
   </entry>
   
   <entry>
     <title>freeScreeeaaammm!!!!!!</title>
-    <link href="http://sohla.github.io/2012/04/28/freeScreeeaaammm!!!!!!/"/>
-    <id>http://sohla.github.io/2012/04/28/freeScreeeaaammm!!!!!!/</id>
+    <link href="http://yoursite.com/2012/04/28/freeScreeeaaammm!!!!!!/"/>
+    <id>http://yoursite.com/2012/04/28/freeScreeeaaammm!!!!!!/</id>
     <published>2012-04-27T14:00:00.000Z</published>
     <updated>2016-07-03T06:04:34.000Z</updated>
     
@@ -173,14 +173,14 @@
     </summary>
     
     
-      <category term="code, supercollider, python, freesound, soound design" scheme="http://sohla.github.io/tags/code-supercollider-python-freesound-soound-design/"/>
+      <category term="code, supercollider, python, freesound, soound design" scheme="http://yoursite.com/tags/code-supercollider-python-freesound-soound-design/"/>
     
   </entry>
   
   <entry>
     <title>ui-ux</title>
-    <link href="http://sohla.github.io/2010/12/10/ui-ux/"/>
-    <id>http://sohla.github.io/2010/12/10/ui-ux/</id>
+    <link href="http://yoursite.com/2010/12/10/ui-ux/"/>
+    <id>http://yoursite.com/2010/12/10/ui-ux/</id>
     <published>2010-12-09T13:00:00.000Z</published>
     <updated>2016-07-03T05:45:22.000Z</updated>
     
@@ -215,14 +215,14 @@
     </summary>
     
     
-      <category term="design,code" scheme="http://sohla.github.io/tags/design-code/"/>
+      <category term="design,code" scheme="http://yoursite.com/tags/design-code/"/>
     
   </entry>
   
   <entry>
     <title>I ♥ unicode</title>
-    <link href="http://sohla.github.io/2010/09/13/I%20%E2%99%A5%20unicode/"/>
-    <id>http://sohla.github.io/2010/09/13/I ♥ unicode/</id>
+    <link href="http://yoursite.com/2010/09/13/I%20%E2%99%A5%20unicode/"/>
+    <id>http://yoursite.com/2010/09/13/I ♥ unicode/</id>
     <published>2010-09-12T14:00:00.000Z</published>
     <updated>2016-07-03T05:32:42.000Z</updated>
     
@@ -237,14 +237,14 @@
     </summary>
     
     
-      <category term="unicode,design,code" scheme="http://sohla.github.io/tags/unicode-design-code/"/>
+      <category term="unicode,design,code" scheme="http://yoursite.com/tags/unicode-design-code/"/>
     
   </entry>
   
   <entry>
     <title>Trying stuff out post 💎</title>
-    <link href="http://sohla.github.io/2000/01/01/Test-Post/"/>
-    <id>http://sohla.github.io/2000/01/01/Test-Post/</id>
+    <link href="http://yoursite.com/2000/01/01/Test-Post/"/>
+    <id>http://yoursite.com/2000/01/01/Test-Post/</id>
     <published>1999-12-31T13:00:00.000Z</published>
     <updated>2016-07-05T03:56:13.000Z</updated>
     
